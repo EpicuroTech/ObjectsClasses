@@ -1,0 +1,11 @@
+C:\CSharp\ClasseEstatica\ClasseEstatica\bin\Debug\ClasseEstatica.exe.config
+C:\CSharp\ClasseEstatica\ClasseEstatica\bin\Debug\ClasseEstatica.exe
+C:\CSharp\ClasseEstatica\ClasseEstatica\bin\Debug\ClasseEstatica.pdb
+C:\CSharp\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.AssemblyReference.cache
+C:\CSharp\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.Form1.resources
+C:\CSharp\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.Properties.Resources.resources
+C:\CSharp\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.GenerateResource.cache
+C:\CSharp\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.CoreCompileInputs.cache
+C:\CSharp\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.exe
+C:\CSharp\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.pdb

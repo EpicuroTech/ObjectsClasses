@@ -1,0 +1,11 @@
+C:\CSharp\Classes\Classes\bin\Debug\Classes.exe.config
+C:\CSharp\Classes\Classes\bin\Debug\Classes.exe
+C:\CSharp\Classes\Classes\bin\Debug\Classes.pdb
+C:\CSharp\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\CSharp\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Classes\Classes\obj\Debug\Classes.Form1.resources
+C:\CSharp\Classes\Classes\obj\Debug\Classes.Properties.Resources.resources
+C:\CSharp\Classes\Classes\obj\Debug\Classes.csproj.GenerateResource.cache
+C:\CSharp\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\CSharp\Classes\Classes\obj\Debug\Classes.exe
+C:\CSharp\Classes\Classes\obj\Debug\Classes.pdb

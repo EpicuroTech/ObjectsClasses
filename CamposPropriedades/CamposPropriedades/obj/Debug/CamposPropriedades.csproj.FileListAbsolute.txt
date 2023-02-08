@@ -1,0 +1,11 @@
+C:\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.AssemblyReference.cache
+C:\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.Form1.resources
+C:\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.Properties.Resources.resources
+C:\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.GenerateResource.cache
+C:\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.CoreCompileInputs.cache
+C:\CSharp\CamposPropriedades\CamposPropriedades\bin\Debug\CamposPropriedades.exe.config
+C:\CSharp\CamposPropriedades\CamposPropriedades\bin\Debug\CamposPropriedades.exe
+C:\CSharp\CamposPropriedades\CamposPropriedades\bin\Debug\CamposPropriedades.pdb
+C:\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.exe
+C:\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.pdb
